@@ -4,9 +4,7 @@
 
 The Python project is a prerequisite for fetching and generating
 relevant storyline JSON file to feed the iStoryline Visualisation
-Web App. The storyline visualisation for LoL Matches used
-[iStoryline.js](https://github.com/tangtan/iStoryline.js) library
-developed by [Tan Tang](https://github.com/tangtan) from Zhejiang University.
+Web App.
 
 ## Python Pipeline of Fetching Data
 
@@ -132,11 +130,3 @@ The session number is used to distinguish the different locations of the same ch
 Now we already have the storyline JSON file. We can then import the file to the storyline visualisation.
 
 Please check details from the GitHub repo: [Storyline Visualisation for LoL Matches](https://github.com/tiange997/iStoryline.js).
-
-## Citation
-
-We appreciate your citation if this library contributes to your work.
-
-```bib
-
-```
